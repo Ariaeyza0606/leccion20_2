@@ -10,4 +10,5 @@ El código muestra el mensaje JS coders love its callbacks, mientras que el resu
 
 ## Codigo Corregido
 Se le elimino el var asi ya no lo elevara la variable.
+
 ![alt](http://2.1m.yt/ToCnlJH.png)
